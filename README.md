@@ -1,7 +1,5 @@
 #Vagrant-shell-script
 
-Projeto 2
-
 ​Criar máquina virtual no vagrant, em seguida padronizar pelo shell-Script.
 
 Instalar pacotes:
