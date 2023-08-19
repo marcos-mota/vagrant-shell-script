@@ -1,6 +1,6 @@
 # Automatizando a Configuração de Máquinas Virtuais com Vagrant e Shell Script
 
-Hoje, gostaria de compartilhar uma maneira eficiente de criar e padronizar máquinas virtuais usando o Vagrant e Shell Script. Isso pode ser especialmente útil para desenvolvedores e administradores de sistema que desejam automatizar a configuração de ambientes de desenvolvimento.
+O exercicio proposto tem como objetivo prover uma maneira eficiente de criar e padronizar máquinas virtuais usando o Vagrant e Shell Script. Isso pode ser especialmente útil para desenvolvedores e administradores de sistema que desejam automatizar a configuração de ambientes de desenvolvimento.
 
 ## Passos para Automatizar sua Máquina Virtual:
 
